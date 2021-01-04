@@ -1,4 +1,4 @@
 # ajax-simpsons-quotes
 Quete Ajax Odyssey
 
-https://github.com/BrunoLagasse/ajax-simpsons-quotes
+https://brunolagasse.github.io/ajax-simpsons-quotes/
